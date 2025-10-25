@@ -68,7 +68,7 @@ Cloud-native volunteer management system serving 100+ families with automated re
 Applied R-based framework integrating external labor market data (BLS, Census) with internal metrics to identify market-specific challenges. Discovered accessibility barriers in high-income Nashville neighborhoods contributing to turnover, informing targeted compensation strategies.
 
 **Predictive Succession Planning:**
-Built Power BI dashboard forecasting 5-year talent gaps using retirement eligibility calculations and impact analysis across job families, enabling proactive leadership development.
+Built Power BI dashboard forecasting 5-year talent gaps and impact analysis across job families, enabling proactive leadership development.
 
 **Statistical Process Control:**
 Implemented standard deviation-based threshold indicators in dashboards to automatically flag statistically significant workforce metric variations, helping leaders distinguish signal from noise.
@@ -94,8 +94,8 @@ Leveraged generative AI tools to analyze thousands of employee survey comments, 
 ## 📫 Connect With Me
 
 - **Email:** Dominick.J.Albano@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn]((https://www.linkedin.com/in/dominick-albano-mba/))
-- **Location:** Plymouth, MI (Remote) & Atlanta, GA
+- **LinkedIn:** [Connect with me on LinkedIn: https://www.linkedin.com/in/dominick-albano-mba/]
+- **Location:** Plymouth, MI & Atlanta, GA
 
 ---
 
