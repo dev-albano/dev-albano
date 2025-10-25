@@ -94,7 +94,7 @@ Leveraged generative AI tools to analyze thousands of employee survey comments, 
 ## 📫 Connect With Me
 
 - **Email:** Dominick.J.Albano@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn: https://www.linkedin.com/in/dominick-albano-mba/]
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/dominick-albano-mba/)
 - **Location:** Plymouth, MI & Atlanta, GA
 
 ---
